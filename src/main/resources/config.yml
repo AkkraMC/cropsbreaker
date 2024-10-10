@@ -1,0 +1,5 @@
+crops:
+  MELON_BLOCK:
+    break: true
+  PUMPKIN:
+    break: false

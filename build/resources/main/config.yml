@@ -1,0 +1,19 @@
+crops:
+  WHEAT:
+    break: false
+  CARROTS:
+    break: false
+  POTATOES:
+    break: false
+  MELON_BLOCK:
+    break: true
+  PUMPKIN:
+    break: false
+  COCOA_BEANS:
+    break: false
+  NETHER_WART:
+    break: false
+  SUGAR_CANE:
+    break: false
+  CACTUS:
+    break: false
